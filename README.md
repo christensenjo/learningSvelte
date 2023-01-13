@@ -1,2 +1,3 @@
-# learningSvelte
-This is my personal repo I'll use as I learn svelte
+# Learning SvelteKit
+
+Welcome, this is a repo for my personal use as I attempt to learn Svelte. My hope has been to deploy a Svelte web app via Firebase Hosting. After investigating svelte-adapter-firebase and trying several configurations, I've decided to pause my efforts until some further stability is reached across SvelteKit and Firebase deployment integrations. I've pushed my repo here for storage and history.
